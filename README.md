@@ -10,7 +10,9 @@ Team Charter
   The team agrees to abide by all restrictions and regulations of Group 4 when on site, to place the safety of the client as its highest priority, and to work in accord with HGU’s Honor Code.
 
 Goals
+
    The project is assigned as part of the Introduction to Engineering Design class, and the students understand that they are expected to work to accomplish the class’s course goals, and the team’s goals.
+   
    The goals of the class is to:
 1.	Develop an understanding and experience of the conceptual design process;
 2.	Give the group members experience in team dynamics; and
