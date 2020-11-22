@@ -3,7 +3,9 @@
 Team Charter
 --------------------
 HGU Introduction to Engineering Design Team #4
+
 Team Charter
+
    This charter documents key information regarding a project to be conducted by students at Handong Global University (HGU) enrolled in the HGU Introduction to Engineering Design class. The faculty advisor will be Professor Won Hyeong Lee. The project manager/team leader will be selected at the outset of the project by and from among the members of the student team.
   The team agrees to abide by all restrictions and regulations of Group 4 when on site, to place the safety of the client as its highest priority, and to work in accord with HGU’s Honor Code.
 
