@@ -44,6 +44,6 @@ Limits
 - The size of the room should be at least 10m^2 if the room is from an old building, and 15m^2 is it is a renovated/new building
 - The ceiling should be 2.4m high
 - The entrance should be at least 1.2m wide
-- The air pressure within the room should be at least 2.5PA
+- The air pressure within the room should be at least 2.5Pa
 - Only one meeting a day to prevent spread of viruses
 - Patients should have psychiatric counseling at least once a week
