@@ -46,3 +46,4 @@ Limits
 - The entrance should be at least 1.2m wide
 - The air pressure within the room should be at least 2.5PA
 - Only one meeting a day to prevent spread of viruses
+- Patients should have psychiatric counseling at least once a week
