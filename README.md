@@ -3,7 +3,8 @@
 Team Presentation
 --------------------
 Video Link : https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=4962s
-Ppt Link : 
+
+Ppt Link : https://github.com/systec24/IED-Group-4---Final-Presentation/blob/main/Team%204%20Presentation%20Ppt.pdf
 
 Team Charter
 --------------------
