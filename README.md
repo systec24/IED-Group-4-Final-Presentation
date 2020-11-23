@@ -40,7 +40,7 @@ Problem Statement
 --------------------
 Anxiety caused by communication problems with psychotic patients in the negative pressure room
 
-Pricipal Functions
+Principal Functions
 --------------------
 - The patient and the medical staff should be able to communicate freely
 - The patient should be able to have screened meeting
