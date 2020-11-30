@@ -100,7 +100,7 @@ To conduct a POC:
 
 5. Present POC for approval
 
-    c. Present to stakeholders
+    a. Present to stakeholders
 
 
 
