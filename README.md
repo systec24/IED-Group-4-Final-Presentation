@@ -81,19 +81,25 @@ Proof of Concept, or POC, is a method of exercise that focuses on determining wh
 
 To conduct a POC: 
 1. Demonstrate the need for the product
+
     a. Why does this product need to exist and for who?
 
 2. Ideate the right solution
+
     a. Which ideas are the best methods to implement?
 
 3. Create a prototype and test it
+
     a. Does it actually work?
 
 4. Gather and document feedback
+
     a. Did others approve?
+    
     b. What needs to be improved?
 
 5. Present POC for approval
+
     c. Present to stakeholders
 
 
