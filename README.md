@@ -109,8 +109,12 @@ To conduct a POC:
     a. Present to stakeholders
 
 
+Representative Design Image
+----------------------------
 
+<img src = "Representative%20Design%20image.png" width="800">
 
+This is an image of our final design and as it is shown on the image, the room is consisted of a main room with a bed where the patient normally stays and a toilet, and a visiting room. This visiting room is for people to come and visit the patients and have a face-to-face conversation. It has a interphone to provide clear communication while having a tempered glass in between for safety. The visitors can visit the visiting room by the medical staff corridor as displayed in the image.
 
 
 
