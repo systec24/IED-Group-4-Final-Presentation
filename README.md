@@ -4,7 +4,7 @@ Final Presentation
 -------------------
 Video Link : https://youtu.be/DJs8EdNrdHE
 
-Ppt Link : 
+Ppt Link : https://github.com/systec24/IED-Group-4-Final-Presentation/blob/main/IED%20Final%20Presentation%20Team%204%20PPT.pdf
 
 Team Presentation - 1st Presentation
 --------------------
